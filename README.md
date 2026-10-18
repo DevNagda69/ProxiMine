@@ -116,10 +116,6 @@ More photos: [front view](docs/images/hardware-front.jpg), [top view](docs/image
 
 - [SIH 2026 presentation](docs/SIH26_ProxiMine_SafePit_Presentation.pptx)
 
-## License
-
-Released under the MIT License. See [LICENSE](LICENSE).
-
 ## Author
 
 **Dev Nagda**
